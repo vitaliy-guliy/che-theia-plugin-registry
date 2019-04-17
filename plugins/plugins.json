@@ -8,5 +8,15 @@
         "links": {
             "self": "/vitaliy-guliy/che-theia-plugin-registry/master/plugins/org.eclipse.che.samples.hello-world-frontend-plugin/0.0.1/meta.yaml"
         }
+    },
+    {
+        "id": "org.eclipse.che.samples.tree-view-sample-plugin",
+        "version": "0.0.1",
+        "type": "Theia plugin",
+        "name": "tree-view-sample-plugin",
+        "description": "Tree View backend plugin example for Theia.",
+        "links": {
+            "self": "org.eclipse.che.samples.tree-view-sample-plugin/0.0.1/meta.yaml"
+        }
     }
 ]
