@@ -1,0 +1,13 @@
+id: org.eclipse.che.samples.tree-view-sample-plugin
+version: 0.0.1
+type: Theia plugin
+name: hello-world-frontend-plugin
+title: Tree View Plugin example for Theia
+description: Tree View backend plugin example for Theia.
+url: https://github.com/vitaliy-guliy/che-theia-plugin-registry/releases/download/0.0.1/eclipse_che_hello_world_frontend_plugin.theia
+icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/che/che-chenec.png
+publisher: Red Hat, Inc.
+repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
+category: Samples
+firstPublicationDate: "2019-03-13"
+latestUpdateDate: "2019-04-09"
