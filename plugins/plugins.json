@@ -24,6 +24,6 @@
         "version": "0.0.1",
         "type": "Theia plugin",
         "name": "super-mario-demo-plugin",
-        "description": "Super Mario backend plugin for Theia."
+        "description": "Super Mario 1 backend plugin for Theia."
     }
 ]
