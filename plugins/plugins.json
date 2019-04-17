@@ -18,5 +18,12 @@
         "links": {
             "self": "org.eclipse.che.samples.tree-view-sample-plugin/0.0.1/meta.yaml"
         }
+    },
+    {
+        "id": "org.eclipse.che.samples.super-mario-demo-plugin",
+        "version": "0.0.1",
+        "type": "Theia plugin",
+        "name": "super-mario-demo-plugin",
+        "description": "Super Mario backend plugin for Theia."
     }
 ]
