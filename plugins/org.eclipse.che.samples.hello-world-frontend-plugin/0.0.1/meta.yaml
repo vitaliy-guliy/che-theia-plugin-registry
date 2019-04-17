@@ -5,7 +5,7 @@ name: hello-world-frontend-plugin
 title: Plugin example for Theia
 description: Hello-World frontend plugin example for Theia.
 url: https://github.com/vitaliy-guliy/che-theia-plugin-registry/releases/download/0.0.1/eclipse_che_hello_world_frontend_plugin.theia
-icon: https://raw.githubusercontent.com/eclipse/che/master/dashboard/src/assets/branding/loader.svg
+icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/che/che.svg
 publisher: Red Hat, Inc.
 repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
 category: Samples
