@@ -6,7 +6,7 @@
         "name": "hello-world-frontend-plugin",
         "description": "Hello-World frontend plugin example for Theia.",
         "links": {
-            "self": "/plugins/org.eclipse.che.samples.hello-world-frontend-plugin/0.0.1/meta.yaml"
+            "self": "org.eclipse.che.samples.hello-world-frontend-plugin/0.0.1/meta.yaml"
         }
     }
 ]
