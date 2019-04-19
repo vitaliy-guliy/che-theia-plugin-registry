@@ -4,7 +4,7 @@ type: Theia plugin
 name: super-mario-demo-plugin
 title: Super Mario game for Che Theia
 description: Super Mario backend plugin for Theia.
-icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/mario 2.gif
+icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/mario 3.gif
 publisher: Red Hat, Inc.
 repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
 category: Samples
