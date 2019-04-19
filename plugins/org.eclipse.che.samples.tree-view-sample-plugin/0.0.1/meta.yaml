@@ -5,7 +5,7 @@ name: tree-view-sample-plugin
 title: Tree View Plugin example for Theia
 description: Tree View backend plugin example for Theia.
 url: https://github.com/vitaliy-guliy/che-theia-plugin-registry/releases/download/0.0.1/tree_view_sample_plugin.theia
-icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/che/753339_tree_512x512.png
+icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/753339_tree_512x512.png
 publisher: Red Hat, Inc.
 repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
 category: Samples
