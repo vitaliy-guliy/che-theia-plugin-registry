@@ -1,30 +1,32 @@
 [
     {
-        "id": "org.eclipse.che.samples.hello-world-frontend-plugin",
+        "id": "eclipse-che/hello-world-frontend-plugin/0.0.1",
+        "displayName": "Hello World Frontend Plugin",
         "version": "0.0.1",
         "type": "Theia plugin",
         "name": "hello-world-frontend-plugin",
         "description": "Hello-World frontend plugin example for Theia.",
+        "publisher": "eclipse-che",
         "links": {
-            "self": "/vitaliy-guliy/che-theia-plugin-registry/master/plugins/org.eclipse.che.samples.hello-world-frontend-plugin/0.0.1/meta.yaml"
+            "self": "/vitaliy-guliy/che-theia-plugin-registry/master/plugins/eclipse-che/hello-world-frontend-plugin/0.0.1/meta.yaml"
         }
     },
     {
-        "id": "org.eclipse.che.samples.tree-view-sample-plugin",
+        "id": "eclipse-che/tree-view-sample-plugin/0.0.1",
+        "displayName": "Tree View Sample PLugin",
         "version": "0.0.1",
         "type": "Theia plugin",
         "name": "tree-view-sample-plugin",
         "description": "Tree View backend plugin example for Theia.",
+        "publisher": "eclipse-che",
         "links": {
-            "self": "org.eclipse.che.samples.tree-view-sample-plugin/0.0.1/meta.yaml"
+            "self": "eclipse-che/tree-view-sample-plugin/0.0.1/meta.yaml"
         }
     },
     {
-        "id": "org.eclipse.che.samples.super-mario-demo-plugin",
-        "version": "0.0.1"
+        "id": "nullpointer/super-mario-demo-plugin/0.0.1"
     },
     {
-        "id": "org.eclipse.che.samples.super-mario-demo-plugin",
-        "version": "0.0.2"
+        "id": "nullpointer/super-mario-demo-plugin/0.0.2"
     }
 ]

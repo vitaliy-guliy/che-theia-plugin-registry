@@ -1,12 +1,13 @@
-id: org.eclipse.che.samples.super-mario-demo-plugin
+publisher: nullpointer
+name: super-mario-demo-plugin
 version: 0.0.1
 type: Theia plugin
-name: super-mario-demo-plugin
+displayName: Super Mario Demo Plugin
 title: Super Mario game for Che Theia
 description: Super Mario backend plugin for Theia.
 icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/mario 1.gif
-publisher: Red Hat, Inc.
+url:
 repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
-category: Samples
 firstPublicationDate: "2019-03-13"
+category: Samples
 latestUpdateDate: "2019-04-09"
