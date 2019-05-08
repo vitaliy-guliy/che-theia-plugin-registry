@@ -28,5 +28,15 @@
     },
     {
         "id": "nullpointer/super-mario-demo-plugin/0.0.2"
+    },
+    {
+        "id": "vitaliy/che-custom-theia/1.0.0",
+        "displayName":"Che Custom Theia",
+        "version":"1.0.0",
+        "type":"Che Editor",
+        "name":"che-custom-theia",
+        "description":"Eclipse Che Custom Theia",
+        "publisher":"vitaliy",
+        "links": {"self":"/v2/plugins/vitaliy/che-custom-theia/1.0.0" }
     }
 ]
