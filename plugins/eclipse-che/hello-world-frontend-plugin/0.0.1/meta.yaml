@@ -1,3 +1,4 @@
+apiVersion: v2
 publisher: eclipse-che
 name: hello-world-frontend-plugin
 version: 0.0.1
@@ -6,8 +7,10 @@ displayName: Hello World Frontend Plugin
 title: Plugin example for Theia
 description: Hello-World frontend plugin example for Theia.
 icon: https://raw.githubusercontent.com/vitaliy-guliy/che-theia-plugin-registry/master/icons/che-chenec.png
-url: https://github.com/vitaliy-guliy/che-theia-plugin-registry/releases/download/0.0.1/eclipse_che_hello_world_frontend_plugin.theia
 repository: https://github.com/eclipse/che-theia-samples/tree/master/samples/hello-world-frontend-plugin
 firstPublicationDate: "2019-03-13"
 category: Samples
 latestUpdateDate: "2019-04-09"
+spec:
+  extensions:
+    - https://github.com/vitaliy-guliy/che-theia-plugin-registry/releases/download/0.0.1/eclipse_che_hello_world_frontend_plugin.theia
