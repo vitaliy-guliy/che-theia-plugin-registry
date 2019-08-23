@@ -24,6 +24,30 @@
         }
     },
     {
+        "id": "eclipse-che/tree-view-sample-plugin/0.0.2",
+        "displayName": "Tree View Sample PLugin",
+        "version": "0.0.2",
+        "type": "Theia plugin",
+        "name": "tree-view-sample-plugin",
+        "description": "Tree View backend plugin example for Theia.",
+        "publisher": "eclipse-che",
+        "links": {
+            "self": "eclipse-che/tree-view-sample-plugin/0.0.2/meta.yaml"
+        }
+    },
+    {
+        "id": "eclipse-che/tree-view-sample-plugin/latest",
+        "displayName": "Tree View Sample PLugin",
+        "version": "latest",
+        "type": "Theia plugin",
+        "name": "tree-view-sample-plugin",
+        "description": "Tree View backend plugin example for Theia.",
+        "publisher": "eclipse-che",
+        "links": {
+            "self": "eclipse-che/tree-view-sample-plugin/latest/meta.yaml"
+        }
+    },
+    {
         "id": "nullpointer/super-mario-demo-plugin/0.0.1"
     },
     {
